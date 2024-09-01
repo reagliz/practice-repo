@@ -1,27 +1,29 @@
-## First Name Last Name
+## Reagan Kinsey
 
-### Term Year 
+### FA2024
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+Applied Mathematics student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Complex Variables
 
-- Course 2
+- Applied Statistics
 
-- Course 3
+- Intro to Real Analysis
 
-- Course 4
+- Foundations of Data Analytics
+
+- Contemporary Issues and Case Studies in Data Science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- math
 
-- Thing 2
+- cats
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- my family!
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/08/31
